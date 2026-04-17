@@ -4,12 +4,12 @@ emoji: "⚔️"
 type: "idea"
 topics: ["braverssigma", "update", "dispatch", "feature"]
 published: true
-published_at: 2026-04-18 10:00
+published_at: 2026-04-17 21:00
 ---
 
-![BRAVER'S Σ に『派遣』機能を追加しました](https://racc.games/assets/blog/2026-04-18-bravers-dispatch/og.png)
+![BRAVER'S Σ に『派遣』機能を追加しました](https://racc.games/assets/blog/2026-04-17-bravers-dispatch/og.png)
 
-> 初出: [racc.games/blog/2026-04-18-bravers-dispatch/](https://racc.games/blog/2026-04-18-bravers-dispatch/)
+> 初出: [racc.games/blog/2026-04-17-bravers-dispatch/](https://racc.games/blog/2026-04-17-bravers-dispatch/)
 
 **寝ている間にも、報酬が積み上がる** — そんな遊び方が BRAVER'S Σ に加わりました。今回のアップデートで **『派遣』機能** を追加しています。
 

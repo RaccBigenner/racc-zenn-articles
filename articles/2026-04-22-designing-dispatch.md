@@ -4,14 +4,14 @@ emoji: "⚔️"
 type: "idea"
 topics: ["braverssigma", "design", "dispatch", "gamedesign"]
 published: true
-published_at: 2026-04-20 10:00
+published_at: 2026-04-22 10:00
 ---
 
-![育てたキャラに出番を作る — 派遣機能を設計したときに考えたこと](https://racc.games/assets/blog/2026-04-20-designing-dispatch/og.png)
+![育てたキャラに出番を作る — 派遣機能を設計したときに考えたこと](https://racc.games/assets/blog/2026-04-22-designing-dispatch/og.png)
 
-> 初出: [racc.games/blog/2026-04-20-designing-dispatch/](https://racc.games/blog/2026-04-20-designing-dispatch/)
+> 初出: [racc.games/blog/2026-04-22-designing-dispatch/](https://racc.games/blog/2026-04-22-designing-dispatch/)
 
-BRAVER'S Σ に **派遣機能** を追加しました。機能そのものの紹介は [こちらの記事](/blog/2026-04-18-bravers-dispatch/) に書いたので、この記事では **設計するときに何を悩んだか** をまとめておきます。ゲームデザインや運営についての話です。
+BRAVER'S Σ に **派遣機能** を追加しました。機能そのものの紹介は [こちらの記事](/blog/2026-04-17-bravers-dispatch/) に書いたので、この記事では **設計するときに何を悩んだか** をまとめておきます。ゲームデザインや運営についての話です。
 
 ## 解こうとした問題
 
