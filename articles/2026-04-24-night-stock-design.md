@@ -7,7 +7,7 @@ published: true
 published_at: 2026-04-24 10:00
 ---
 
-![究極の放置ゲームとは — ナイトストックの設計思想](https://racc.games/assets/blog/2026-04-24-night-stock-design/og.png)
+![究極の放置ゲームとは — ナイトストックの設計思想](https://racc.games/assets/blog/2026-04-24-night-stock-design/og-v2.png)
 
 > 初出: [racc.games/blog/2026-04-24-night-stock-design/](https://racc.games/blog/2026-04-24-night-stock-design/)
 

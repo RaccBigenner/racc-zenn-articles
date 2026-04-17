@@ -7,7 +7,7 @@ published: true
 published_at: 2026-04-17 12:00
 ---
 
-![racc.games に開発ブログを追加しました](https://racc.games/assets/blog/2026-04-17-blog-launch/og.png)
+![racc.games に開発ブログを追加しました](https://racc.games/assets/blog/2026-04-17-blog-launch/og-v2.png)
 
 > 初出: [racc.games/blog/2026-04-17-blog-launch/](https://racc.games/blog/2026-04-17-blog-launch/)
 

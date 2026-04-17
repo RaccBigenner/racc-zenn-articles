@@ -7,7 +7,7 @@ published: true
 published_at: 2026-04-22 10:00
 ---
 
-![育てたキャラに出番を作る — 派遣機能を設計したときに考えたこと](https://racc.games/assets/blog/2026-04-22-designing-dispatch/og.png)
+![育てたキャラに出番を作る — 派遣機能を設計したときに考えたこと](https://racc.games/assets/blog/2026-04-22-designing-dispatch/og-v2.png)
 
 > 初出: [racc.games/blog/2026-04-22-designing-dispatch/](https://racc.games/blog/2026-04-22-designing-dispatch/)
 

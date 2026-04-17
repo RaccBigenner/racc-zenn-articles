@@ -7,7 +7,7 @@ published: true
 published_at: 2026-04-18 11:00
 ---
 
-![ナイトストック、明日 iOS リリースです](https://racc.games/assets/blog/2026-04-18-night-stock-tomorrow/og.png)
+![ナイトストック、明日 iOS リリースです](https://racc.games/assets/blog/2026-04-18-night-stock-tomorrow/og-v2.png)
 
 > 初出: [racc.games/blog/2026-04-18-night-stock-tomorrow/](https://racc.games/blog/2026-04-18-night-stock-tomorrow/)
 

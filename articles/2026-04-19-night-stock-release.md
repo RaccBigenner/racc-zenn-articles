@@ -7,7 +7,7 @@ published: true
 published_at: 2026-04-19 09:00
 ---
 
-![ナイトストック、配信を開始しました](https://racc.games/assets/blog/2026-04-19-night-stock-release/og.png)
+![ナイトストック、配信を開始しました](https://racc.games/assets/blog/2026-04-19-night-stock-release/og-v2.png)
 
 > 初出: [racc.games/blog/2026-04-19-night-stock-release/](https://racc.games/blog/2026-04-19-night-stock-release/)
 

@@ -7,7 +7,7 @@ published: true
 published_at: 2026-04-17 21:00
 ---
 
-![BRAVER'S Σ に『派遣』機能を追加しました](https://racc.games/assets/blog/2026-04-17-bravers-dispatch/og.png)
+![BRAVER'S Σ に『派遣』機能を追加しました](https://racc.games/assets/blog/2026-04-17-bravers-dispatch/og-v2.png)
 
 > 初出: [racc.games/blog/2026-04-17-bravers-dispatch/](https://racc.games/blog/2026-04-17-bravers-dispatch/)
 
