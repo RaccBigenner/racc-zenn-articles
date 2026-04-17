@@ -7,6 +7,8 @@ published: true
 published_at: 2026-04-17 12:00
 ---
 
+![racc.games に開発ブログを追加しました](https://racc.games/assets/blog/2026-04-17-blog-launch/og.png)
+
 > 初出: [racc.games/blog/2026-04-17-blog-launch/](https://racc.games/blog/2026-04-17-blog-launch/)
 
 racc.games に **Devlog（開発ブログ）** を追加しました。これまで X (Twitter) に流していた開発進捗を、ちゃんと残る場所に書き溜めていく試みです。
