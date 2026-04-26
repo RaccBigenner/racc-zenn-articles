@@ -7,7 +7,7 @@ published: true
 published_at: 2026-04-26 10:00
 ---
 
-![キャラ性能の一覧ページを作りました — マスターデータ直結](https://racc.games/assets/blog/2026-04-26-character-list/og-v2.png)
+![キャラ性能の一覧ページを作りました — マスターデータ直結](https://racc.games/assets/blog/2026-04-26-character-list/2026-04-26-character-list-cover.png)
 
 > 初出: [racc.games/blog/2026-04-26-character-list/](https://racc.games/blog/2026-04-26-character-list/)
 
